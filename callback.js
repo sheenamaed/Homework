@@ -8,5 +8,4 @@ const participants = [
 // TODO: assign idNumber of all participants to idNumbers 
 
 const getIds = participants.map(participant =>  participant.idNumber);
-
 console.log(getIds);
